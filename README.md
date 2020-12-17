@@ -107,5 +107,8 @@ Vectorizer
   
 
 ## 📽️ Our video 
-    
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://www.youtube.com/watch?v=iFVyntNgX4A">
+</video>
+
      [![Alt text](https://img.youtube.com/vi/iFVyntNgX4A/0.jpg)](https://www.youtube.com/watch?v=iFVyntNgX4A)
